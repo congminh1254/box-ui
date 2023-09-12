@@ -18,7 +18,7 @@ const {
 } = require("box-typescript-sdk-gen/lib/developerTokenAuth.js");
 
 let auth = new DeveloperTokenAuth({
-  token: "ty693Dnm4P7I3UI4ttRSekRv0CiCqu5e",
+  token: "",
 });
 let client = new Client({ auth });
 function App() {
