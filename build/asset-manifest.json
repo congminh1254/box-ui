@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/box-ui/static/css/main.449cb488.css",
+    "main.js": "/box-ui/static/js/main.2e5b4f9f.js",
+    "static/js/787.4fb9071e.chunk.js": "/box-ui/static/js/787.4fb9071e.chunk.js",
+    "index.html": "/box-ui/index.html",
+    "main.449cb488.css.map": "/box-ui/static/css/main.449cb488.css.map",
+    "main.2e5b4f9f.js.map": "/box-ui/static/js/main.2e5b4f9f.js.map",
+    "787.4fb9071e.chunk.js.map": "/box-ui/static/js/787.4fb9071e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449cb488.css",
+    "static/js/main.2e5b4f9f.js"
+  ]
+}
