@@ -12,6 +12,7 @@ import {
   TableRow,
   TextField,
 } from "@mui/material";
+
 const { Client } = require("box-typescript-sdk-gen/lib/client.generated.js");
 const {
   DeveloperTokenAuth,
